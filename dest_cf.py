@@ -3,7 +3,7 @@
 import urllib, json, sys
 
 if len(sys.argv) != 3:
-    print """Usage: %s (XBL|PSN) (Username)
+    print """Usage: %s (PSN) (redredninja)
 
 NOTE: You may have to enclose your username in quotes if it 
 contains spaces or other non-alphanumeric characters"""
