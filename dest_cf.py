@@ -9,7 +9,7 @@ NOTE: You may have to enclose your username in quotes if it
 contains spaces or other non-alphanumeric characters"""
     sys.exit(1)
 
-if sys.argv[1] == 'XBL':
+if sys.argv[1] == 'PSN':
     system = 1
 else:
     system = 2
